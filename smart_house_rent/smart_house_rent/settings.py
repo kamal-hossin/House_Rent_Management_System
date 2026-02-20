@@ -25,8 +25,7 @@ SECRET_KEY = 'django-insecure-q0%ww)+f&v3(_(!yna2)juji0yk7(pdfp)q38&ex4%2$+h-ba4
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
-
+ALLOWED_HOSTS = ['https://house-rent-management-system-woad.vercel.app', 'localhost', '127.0.0.1']
 
 # Application definition
 
